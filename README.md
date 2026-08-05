@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshad333-v/LeedCode/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/harshad333-v/LeedCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
