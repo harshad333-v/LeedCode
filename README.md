@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshad333-v/LeedCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshad333-v/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshad333-v/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshad333-v/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshad333-v/LeedCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/harshad333-v/LeedCode/tree/master/0202-happy-number) |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshad333-v/LeedCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -95,4 +97,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
