@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshad333-v/LeedCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/harshad333-v/LeedCode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/harshad333-v/LeedCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshad333-v/LeedCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshad333-v/LeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/harshad333-v/LeedCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/harshad333-v/LeedCode/tree/master/0412-fizz-buzz) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshad333-v/LeedCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshad333-v/LeedCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshad333-v/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/harshad333-v/LeedCode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshad333-v/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
