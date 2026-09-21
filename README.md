@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshad333-v/LeedCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/harshad333-v/LeedCode/tree/master/0202-happy-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshad333-v/LeedCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshad333-v/LeedCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshad333-v/LeedCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
