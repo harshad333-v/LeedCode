@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshad333-v/LeedCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshad333-v/LeedCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/harshad333-v/LeedCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harshad333-v/LeedCode/tree/main/0283-move-zeroes/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshad333-v/LeedCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/harshad333-v/LeedCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshad333-v/LeedCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshad333-v/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshad333-v/LeedCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harshad333-v/LeedCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/harshad333-v/LeedCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/harshad333-v/LeedCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshad333-v/LeedCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/harshad333-v/LeedCode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/harshad333-v/LeedCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshad333-v/LeedCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshad333-v/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 | Problem Name | Difficulty |
