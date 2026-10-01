@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harshad333-v/LeedCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/harshad333-v/LeedCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harshad333-v/LeedCode/tree/main/0283-move-zeroes/) | Easy |
+| [0724-find-pivot-index](https://github.com/harshad333-v/LeedCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/harshad333-v/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshad333-v/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/harshad333-v/LeedCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1872-stone-game-viii](https://github.com/harshad333-v/LeedCode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 | Problem Name | Difficulty |
